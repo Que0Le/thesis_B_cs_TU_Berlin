@@ -1,3 +1,8 @@
+# Final version of the thesis
+The pdf file locates at `./thesis_B_cs.pdf`.
+
+# Data
+Because of data file sizes these are not included here.
 
 # Source code
 
