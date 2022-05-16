@@ -6,7 +6,7 @@ Because of data file sizes these are not included here.
 
 # Source code
 
-This is the source code for the experiment conducted during the course of the BSc. Thesis "On reliable execution of applications for Linux using the approach of in-kernel processing".
+This is the source code for the experiment conducted during the course of the BSc Thesis "On reliable execution of applications for Linux using the approach of in-kernel processing", in the same condition used to generate the data, which means they are not `production ready` nor `nice`.
 The programs that are needed for the experiement are:
 - 2 example applications written with eBPF (`eBPF_app/eBPF_measure`) and Kernel Module (`mymodule/kernel_module`) methods.
 - 1 packet generator (called `client` located in `mymodule/helper`).
